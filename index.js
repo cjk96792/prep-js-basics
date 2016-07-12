@@ -9,8 +9,10 @@
 *
 * It should be a String.
 **/
-
-
+var firstName = "Chadd";
+console.log(firstName);
+var lastName = "mercado";
+console.log(lastName)
 
 /**
 * #2
